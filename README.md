@@ -1,4 +1,4 @@
 # test
 
 # foo
-yes
+yes 2
