@@ -6,3 +6,4 @@ This is a test
 This is another test!
 and how about another lovely test? :)
 and how about another lovely test? :)
+and how about *another* lovely test? :)
